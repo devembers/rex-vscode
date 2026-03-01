@@ -63,7 +63,7 @@ ext install DevEmbers.rex-api-client
 | Action           | macOS         | Windows/Linux   |
 | ---------------- | ------------- | --------------- |
 | Open Rex         | `Cmd+Shift+R` | `Ctrl+Shift+R` |
-| New Request Tab  | `Cmd+Shift+N` | `Ctrl+Shift+N` |
+| New Request Tab  | `Cmd+Alt+N`   | `Ctrl+Alt+N`   |
 | Send Request     | `Cmd+Enter`   | `Ctrl+Enter`    |
 | Save Request     | `Cmd+S`       | `Ctrl+S`        |
 
